@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beriapaolo, Associate Professor at Milan Politecnico university (Milan, Italy)
 - 👀 I’m interested in Transport Planning, modellin, economic evaluation and geography
-- 🌱 I’m currently learning a lot
+- 🌱 I’m currently learning a lot (but still ignorant on github)
 - 📫 You can reach me via institutional email: name.surname at polimi.it
                                          twitter: beriapaolo
                                          mastodon: @beriapaolo@mastodon.uno
